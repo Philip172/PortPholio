@@ -1,0 +1,68 @@
+C:\Projects\Edness fight\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Projects\Edness fight\Edness fight\bin\Debug\Edness fight.exe
+C:\Projects\Edness fight\Edness fight\bin\Debug\Edness fight.pdb
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness fight.csproj.AssemblyReference.cache
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness_fight.Form1.resources
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness fight.exe
+C:\Projects\Edness fight\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness fight.csproj.AssemblyReference.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 2\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\Edness Fight\Предыдущие версии\Edness fight 1.0.0.3\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.4\Edness fight\obj\Debug\Edness fight.csproj.AssemblyReference.cache
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.AssemblyReference.cache
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\Task\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.exe.config
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\bin\Debug\Edness fight.pdb
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.AssemblyReference.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness_fight.MainForm.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness_fight.Properties.Resources.resources
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.GenerateResource.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.exe
+C:\Users\Филипп\Desktop\changed code\Edness fight 1.0.0.5\Edness fight\obj\Debug\Edness fight.pdb
