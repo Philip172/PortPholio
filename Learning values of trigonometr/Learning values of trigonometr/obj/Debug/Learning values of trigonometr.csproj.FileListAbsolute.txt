@@ -1,0 +1,10 @@
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\bin\Debug\Learning values of trigonometr.exe.config
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\bin\Debug\Learning values of trigonometr.exe
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\bin\Debug\Learning values of trigonometr.pdb
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning values of trigonometr.csproj.AssemblyReference.cache
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning_values_of_trigonometr.Properties.Resources.resources
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning values of trigonometr.csproj.GenerateResource.cache
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning values of trigonometr.csproj.CoreCompileInputs.cache
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning values of trigonometr.exe
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning values of trigonometr.pdb
+C:\Users\Филипп\source\repos\Learning values of trigonometr\Learning values of trigonometr\obj\Debug\Learning_values_of_trigonometr.MainForm.resources

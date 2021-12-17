@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning values of trigonometer", "Learning values of trigonometr\Learning values of trigonometer.csproj", "{C7A85ECB-7681-49D2-A141-DF0C708F4964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A85ECB-7681-49D2-A141-DF0C708F4964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A85ECB-7681-49D2-A141-DF0C708F4964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A85ECB-7681-49D2-A141-DF0C708F4964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A85ECB-7681-49D2-A141-DF0C708F4964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7274EF41-3FB1-471A-B6F6-AAACD02D64C1}
+	EndGlobalSection
+EndGlobal
